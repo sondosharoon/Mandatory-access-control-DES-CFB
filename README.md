@@ -14,7 +14,7 @@ MANDATORY ACCESS CONTROL SYSTEM IS CREATED WITH DES ENCRYPTOR
 </p> 
 
 
-<br>Python2.7 is only supported for this small project on linux distribution.</br>
+<br>Python2.7 is only supported for this small project on linux distribution.
 <br>MAC System is tested on debian and ubuntu only.</br>
 
 <br>DES-CFB encryption is also added in the project. you can use it just to encrypt and decrypt the text from normal User only.</br>
