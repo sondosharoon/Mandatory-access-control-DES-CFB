@@ -2,7 +2,7 @@
 MANDATORY ACCESS CONTROL SYSTEM IS CREATED WITH DES ENCRYPTOR 
 
 
-How to run the software:
+<p>How to run the software:</p>
   -Use login.py to run the software
   -Dont forget to change the permission access of login if you face permission error.execute chmod +x to give execution permission.
   
