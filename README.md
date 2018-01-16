@@ -2,9 +2,9 @@
 MANDATORY ACCESS CONTROL SYSTEM IS CREATED WITH DES ENCRYPTOR 
 
 
-<p>How to run the software:
-  <br>-Use login.py to run the software</br>
-  <br>-Dont forget to change the permission access of login if you face permission error.execute chmod +x to give execution permission.</br>
+<p><br>How to run the software:</br>
+  <br>-Use login.py to run the software
+  -Dont forget to change the permission access of login if you face permission error.execute chmod +x to give execution permission.</br>
   </p>
 <p>About PyQt4:
  <br> İ have addrd pyqt4 in the repository so that you can use it for the MAC system.</br>
