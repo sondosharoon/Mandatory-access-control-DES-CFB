@@ -10,7 +10,7 @@ MANDATORY ACCESS CONTROL SYSTEM IS CREATED WITH DES ENCRYPTOR
   
 <p><br>About PyQt4:</br>
  <br> İ have addrd pyqt4 in the repository so that you can use it for the MAC system.</br>
-  <br>For linux users it can be placed at /usr/lib/python2.7/dist-packages/</br>
+  -For linux users it can be placed at /usr/lib/python2.7/dist-packages/</br>
 </p> 
 
 
@@ -19,8 +19,8 @@ MANDATORY ACCESS CONTROL SYSTEM IS CREATED WITH DES ENCRYPTOR
 
 <br>DES-CFB encryption is also added in the project. you can use it just to encrypt and decrypt the text from normal User only.</br>
 <p>Username:FK
-password:12345
-you can use this account to add further account or delete.</p>
+<br>password:12345</br>
+you can use this account to add further account or delete.</br></p>
 
 <br>User Manual is included in the repository named by termprjooj.docx which informs you about the DES-encryption and how to use the system.</br>
 
