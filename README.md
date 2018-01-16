@@ -20,4 +20,4 @@ you can use this account to add further account or delete.
 
 User Manual is included in the repository named by termprjooj.docx which informs you about the DES-encryption and how to use the system.
 
-<h2> THIS IS A SPECIAL THANKS TO THE CONTRIBUTOR <b>SONDOS HAROON</b> WHO HELPED ME İN THE PROJECT TO DEPLOY THE FUNCTIONALITIES AND WRITING THE REPORT,ONCE AGAIN THANK YOU </h2>
+ THIS IS A SPECIAL THANKS TO THE CONTRIBUTOR <b><i>SONDOS HAROON</i></b> WHO HELPED ME İN THE PROJECT TO DEPLOY THE FUNCTIONALITIES AND WRITING THE REPORT,ONCE AGAIN THANK YOU 
